@@ -1,6 +1,8 @@
 # SNRulerPicker
 刻度尺选取控件
 
+![image](http://7xk4w4.com1.z0.glb.clouddn.com/imgbase_20151117114906.gif)
+
 ## DEMO
 
 ```objc
